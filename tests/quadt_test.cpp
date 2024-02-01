@@ -15,6 +15,7 @@
 #include <cstdlib>
 #include <cstdio>
 #include <iostream>
+#include <cstring>
 
 #include <qd/fpu.h>
 #include <qd/qd_real.h>
